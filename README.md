@@ -1,4 +1,4 @@
-# Constrained Neural Style Transfer for Decorated Logo Generation
+# Guided Neural Style Transfer for Shape Stylization
 
 This is the repository for the implementation of "Guided Neural Style Transfer for Shape Stylization" by G. Atarsaikhan, B. K. Iwana and S. Uchida.
 
