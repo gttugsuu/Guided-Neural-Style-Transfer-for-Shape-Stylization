@@ -21,7 +21,7 @@ We propose a combination of the Gram matrix-based style transfer and Patch match
 
 <!-- ![Sample results](readme_files/teaser.png) -->
 
-<img src="readme_files/teaser.png" alt="teaser" align="middle"/>
+<img src="readme_files/sample_results.png" alt="teaser" align="middle"/>
 
 ## Requirements
 
